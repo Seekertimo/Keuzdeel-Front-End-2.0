@@ -1,21 +1,18 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: user
- * Date: 10/16/2019
- * Time: 11:57 PM
- */
-
-
-$item = array (
-    array ('Film 1','Dit is de eerste film','100'),
-    array ('Film 2','Dit is de tweede film','200'),
-    array ('Film 3','Dit is de derde film','300')
+$item = array(
+    array ('Film 1','Dit is de eerste film','100','1'),
+    array ('Film 2','Dit is de tweede film','200','3'),
+    array ('Film 3','Dit is de derde film','300','6')
 );
 
 echo '<h1>Webshop</h1>';
 
-foreach ($item AS $iteminfo) {
-    echo '<p><strong>'.$iteminfo[0].'</strong><br />>'.$iteminfo[1].'</p>';
-    echo '<p>&euro; '.($iteminfo[2]/100).',- </p>';
+if (isset($_GET['actie']) && (isset($_GET['id']) && $_GET['id'] != '')){
+    echo 'Het id is '.$_GET['id'];
+}
+
+foreach($item AS $itemInfo){
+    echo '<p><strong>'.$itemInfo[0].'</strong><br />'.$itemInfo[1].'</p>';
+    echo '<p>&euro; '.($itemInfo[2]/100).',- </p>';
+    echo '<a href="?actie=bestel&id='.$itemInfo[3].'">Bestellen</a>';
 }
