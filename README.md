@@ -3,7 +3,7 @@ School project map.
 
 **Klant wensen.**
 
-Klant wilt een simpel onepage-design website maar hij zijn pokersets op kan verkopen.
+Klant wilt een simpel onepage-design website waar hij zijn pokersets op kan verkopen.
 De pokersets bestaan uit twee sets, twee koffers met ieder zijn eigen inhoud, bij beide moet vermeld worden wat de inhoud is plus beide moeten een afbeelding hebben. De site moet ook een bestel pagina hebben, deze zou of op een ander tablad t voorschijn kunnen komen of als een soort pop-up geopened kunnen worden, in ieder geval met de gebruiker zijn/haar gegevens in kunne vullen. Hieronder valt:
 
 - Email.
