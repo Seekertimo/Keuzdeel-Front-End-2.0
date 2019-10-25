@@ -15,9 +15,10 @@ De pokersets bestaan uit twee sets, twee koffers met ieder zijn eigen inhoud, bi
 - De cvc
 
 Ook wilt de klant dat de gebruiker meerdere items in zijn of haar winkelwagen kan laten en dat dit gedisplayed wordt. Aantal moet numeriek zijn.
-De klant wilt graag dat de contact informatie binnen de footer staat en dat men hun direct kan emailen via een link.
+De klant wil graag dat de contact informatie binnen de footer staat en dat men hun direct kan emailen via een link.
 
 **Languages**
+
 Used code languages within website:
 
 - HTML
@@ -38,7 +39,7 @@ Previous version(s): 0.5 BETA.
 
 **Deployment**
 
-Project wordt gedelpoyed op de 25ste van Oktober, start datum van project startte op 2 Oktober.
+Project wordt gedeployed op de 25ste van Oktober, start datum van project startte op 2 Oktober.
 Geoptimaliseerd product zal eerst door presentatie ronden gaan voordat het de markt op kan, hierna zal het aan de klant voorgesteld worden die dan besluit of online mag of niet. Wanneer dit gebeurt zal de gemiddelde user gebruik kunnen maken van de website. 
 
 **Project**: 
