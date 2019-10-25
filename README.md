@@ -32,7 +32,7 @@ De meerderheid van de tests gingen over het bestel formulier, dit was het belang
 
 **Version**
 
-Current version: 1.0
+Current version: 1.0.
 Previous version(s): 0.5 BETA.
 
 **Deployment**
