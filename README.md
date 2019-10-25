@@ -1,4 +1,4 @@
-# Keuzdeel-Front-End-2.0
+# Keuzedeel-Front-End-2.0
 School project map.
 
 **Klant wensen.**
